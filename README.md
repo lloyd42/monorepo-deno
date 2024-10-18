@@ -21,5 +21,9 @@ deno task web:dev
 ## Testing
 
 ```bash
-deno task test
+deno task test --allow-net
 ```
+
+## Thanks
+
+[deno2-fullstack-example](https://github.com/kirill-dev-pro/deno2-fullstack-example)
